@@ -1,0 +1,6 @@
+pandas
+numpy
+pycaret
+plotly
+seaborn
+scikit-learn
